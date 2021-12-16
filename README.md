@@ -1,27 +1,30 @@
 <p align="center">
-  <a href="https://rahuldkjain.github.io/gh-profile-readme-generator">
+  <a href="https://bartek532.github.io/github-profile-readme-generator-ts">
     <img alt="GitHub Profile Readme Generator" src="./src/images/mdg.png" width="60" />
   </a>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" alt="typescript logo" width="35">
 </p>
 <h1 align="center">
   GitHub Profile README Generator
 </h1>
 
+<h3 align="center">‼️ This is a copy of this <a href="https://github.com/rahuldkjain/github-profile-readme-generator">project</a>, but built with TypeScript ‼️</h3>
+
 <p align="center">
-<a href="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/LICENSE" target="blank">
-<img src="https://img.shields.io/github/license/rahuldkjain/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator license" />
+<a href="https://github.com/Bartek532/github-profile-readme-generator-ts/blob/master/LICENSE" target="blank">
+<img src="https://img.shields.io/github/license/Bartek532/github-profile-readme-generator-ts?style=flat-square" alt="github-profile-readme-generator license" />
 </a>
-<a href="https://github.com/rahuldkjain/github-profile-readme-generator/fork" target="blank">
-<img src="https://img.shields.io/github/forks/rahuldkjain/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator forks"/>
+<a href="https://github.com/Bartek532/github-profile-readme-generator-ts/fork" target="blank">
+<img src="https://img.shields.io/github/forks/Bartek532/github-profile-readme-generator-ts?style=flat-square" alt="github-profile-readme-generator forks"/>
 </a>
-<a href="https://github.com/rahuldkjain/github-profile-readme-generator/stargazers" target="blank">
-<img src="https://img.shields.io/github/stars/rahuldkjain/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator stars"/>
+<a href="https://github.com/Bartek532/github-profile-readme-generator-ts/stargazers" target="blank">
+<img src="https://img.shields.io/github/stars/Bartek532/github-profile-readme-generator-ts?style=flat-square" alt="github-profile-readme-generator stars"/>
 </a>
-<a href="https://github.com/rahuldkjain/github-profile-readme-generator/issues" target="blank">
-<img src="https://img.shields.io/github/issues/rahuldkjain/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator issues"/>
+<a href="https://github.com/Bartek532/github-profile-readme-generator-ts/issues" target="blank">
+<img src="https://img.shields.io/github/issues/Bartek532/github-profile-readme-generator-ts?style=flat-square" alt="github-profile-readme-generator issues"/>
 </a>
-<a href="https://github.com/rahuldkjain/github-profile-readme-generator/pulls" target="blank">
-<img src="https://img.shields.io/github/issues-pr/rahuldkjain/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator pull-requests"/>
+<a href="https://github.com/Bartek532/github-profile-readme-generator-ts/pulls" target="blank">
+<img src="https://img.shields.io/github/issues-pr/Bartek532/github-profile-readme-generator-ts?style=flat-square" alt="github-profile-readme-generator pull-requests"/>
 </a>
 <a href="https://discord.gg/HHMs7Eg" target="blank">
 <img src="https://img.shields.io/discord/735303195105951764?label=Join%20Community&logo=discord&style=flat-square" alt="join discord community of github profile readme generator"/>
@@ -31,11 +34,11 @@
 <p align="center"><img src="./src/images/github-profile-readme-generator.gif" alt="github-profile-readme-generator gif" /></p>
 
 <p align="center">
-    <a href="https://rahuldkjain.github.io/gh-profile-readme-generator" target="blank">View Demo</a>
+    <a href="https://bartek532.github.io/github-profile-readme-generator-ts" target="blank">View Demo</a>
     ·
-    <a href="https://github.com/rahuldkjain/github-profile-readme-generator/issues/new/choose">Report Bug</a>
+    <a href="https://github.com/Bartek532/github-profile-readme-generator-ts/issues/new/choose">Report Bug</a>
     ·
-    <a href="https://github.com/rahuldkjain/github-profile-readme-generator/issues/new/choose">Request Feature</a>
+    <a href="https://github.com/Bartek532/github-profile-readme-generator-ts/issues/new/choose">Request Feature</a>
 </p>
 
 <p align="center">
@@ -56,11 +59,11 @@ This tool provides an easy way to create a GitHub profile readme with the latest
 
 ## 🚀 Demo
 
-<a href="https://rahuldkjain.github.io/gh-profile-readme-generator" target="blank">
-<img src="https://img.shields.io/website?url=https%3A%2F%2Frahuldkjain.github.io%2Fgh-profile-readme-generator&logo=github&style=flat-square" />
+<a href="https://bartek532.github.io/github-profile-readme-generator-ts" target="blank">
+<img src="https://img.shields.io/website?url=https%3A%2F%2Fbartek532.github.io%2Fgithub-profile-readme-generator-ts&logo=github&style=flat-square" />
 </a>
 
-Try the tool: [GitHub Profile README Generator](https://rahuldkjain.github.io/gh-profile-readme-generator)
+Try the tool: [GitHub Profile README Generator](https://bartek532.github.io/github-profile-readme-generator-ts)
 
 ## 🧐 Features
 
@@ -84,7 +87,7 @@ Just fill in the details such as `Name`, `Tagline`, `Dev Platforms Username`, `C
 
 - **Dynamic Personal Blogs from RSS Feed** (GitHub Action)
 
-- **Wakatime Stats** [contribute](https://github.com/rahuldkjain/github-profile-readme-generator/issues/115)
+- **Wakatime Stats** [contribute](https://github.com/Bartek532/github-profile-readme-generator-ts/issues/115)
 
 - **Buy Me A Coffee button**
 
@@ -96,13 +99,13 @@ You can preview the README too.
 1. Clone the repository
 
 ```bash
-git clone https://github.com/rahuldkjain/github-profile-readme-generator.git
+git clone https://github.com/Bartek532/github-profile-readme-generator-ts.git
 ```
 
 2. Change the working directory
 
 ```bash
-cd github-profile-readme-generator
+cd github-profile-readme-generator-ts
 ```
 
 3. Install dependencies
@@ -128,6 +131,7 @@ Please read [`CONTRIBUTING`](CONTRIBUTING.md) for details on our [`CODE OF CONDU
 ## 💻 Built with
 
 - [Gatsby](https://www.gatsbyjs.com/)
+- [TypeScript](https://www.typescriptlang.org)
 - [Tailwind CSS](https://tailwindcss.com/): for styling
 - [GSAP](https://greensock.com/gsap/): for small SVG Animations
 
