@@ -1,9 +1,9 @@
 {
-  "name": "github-profile-readme-generator",
+  "name": "github-profile-readme-generator-ts",
   "private": true,
-  "description": "A simple react app to generate beautiful github profile readme in md(markdown)",
+  "description": "A simple react app to generate beautiful github profile readme in md(markdown) built in TypeScript",
   "version": "1.2.0",
-  "author": "Rahul Jain <rahuldkjain@gmail.com>",
+  "author": "Bartosz Zagrodzki <bartosz@zagrodzki.me>",
   "husky": {
     "hooks": {
       "pre-commit": "lint-staged"
@@ -42,10 +42,12 @@
     "prop-types": "^15.7.2",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
-    "react-helmet": "^6.1.0"
+    "react-helmet": "^6.1.0",
+    "babel-jest": "26.3.0"
   },
   "devDependencies": {
-    "babel-jest": "26.3.0",
+    "@types/react-dom": "^17.0.9",
+    "@types/react-helmet": "^6.1.4",
     "babel-preset-gatsby": "0.5.11",
     "eslint": "^7.32.0",
     "eslint-config-airbnb": "^18.2.1",
@@ -79,13 +81,13 @@
     "serve": "gatsby serve",
     "clean": "gatsby clean",
     "test": "jest -i -u --coverage",
-    "deploy": "gatsby build --prefix-paths && gh-pages -d public -b master"
+    "deploy": "gatsby build --prefix-paths && gh-pages -d public -b gh-pages"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/rahuldkjain/github-profile-readme-generator"
+    "url": "https://github.com/Bartek532/github-profile-readme-generator-ts"
   },
   "bugs": {
-    "url": "https://github.com/rahuldkjain/github-profile-readme-generator/issues"
+    "url": "https://github.com/Bartek532/github-profile-readme-generator-ts/issues"
   }
 }
